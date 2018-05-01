@@ -1,0 +1,23 @@
+class: saberartoriapendragon
+costumes:
+- chatcolor: '&7'
+  name: §eS§7a§9b§7e§1r§8(§eA§9P§8)
+  sig: tNrj3Zm5EtOLJFas8EMK3hdVP9Il3i06nDYSAmMyAwinzzMtFcS2MQy0ZAZXvB703J75/k1rul+a4iF6SgYnloAzsNSWffQgCZ1y77Z7H5MaTNE3/jIDW5iC/8Aq4A9ih3evuGAqWOS4wnuwwsMNcJzvT1S70OxLK05TdD6orn7MqO8Wdd+jJa04/pJNJl5gmSz8N0f/lP+9daVAUQw5unS/j5kbCi1bBQAJRE0x6xrlMRFJ4hqjd+ZyiAHMOqW1OSR7tiBfcBmcQy7kcxlo20iFx+j74otLdqAFLfmV5TQXLQZljIcqSUso64+Ap5e2aLwsqSqmiMJarjqhoOp4HFR6wHJ/eXJDV1lRMFvN5VdycBz/DBfVtoK28OWiQJUgaFhWdJARjbzAiP5w5k7LDDkvQGUcGiFQn0/+guHL5ye/DbfjtxoRPuu+sB5syKVgxgV5VDMaP3WeKj68MIbpWW+/ytfBMKkWxVB+edhLxLhPFoSTxAIN6uk7YwpzTXOPl6rSl8x0EnlIG9B6LDonwlv+6ogEnFyA+88HKTF0KkdybdTAuc7DlYpngwUwIurzlp0aAq13SO7Trh3j5I5fbDXRPR1skQGKu71oqIs5n+k62XY8Kzyxfl22oJzmDvg9a71WUVv2NqiAv1xgJK1DvSrXH2+Zzzn6mL/vkFMFMTo=
+  val: eyJ0aW1lc3RhbXAiOjE1MjUyMTQ4NzQyNjMsInByb2ZpbGVJZCI6ImYzMDc3ZTY3OWNmODRiNDhiNDg4NGE1ZmQ4OTlkNjk3IiwicHJvZmlsZU5hbWUiOiJLYXJtYTAwMDEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2ODViOTg5NjIyZmY2NDQ3YzhiZmUxOTUwNzBjOWM2ZjBmYzEwYjkzOGNkYzU3NWRkNTUzZmJhYWMyODE5In19fQ==
+effects:
+- /effect <plr> 5 9999 15 true
+- /effect <plr> 11 9999 3 true
+items:
+- /give <plr> minecraft:golden_sword 1 16:20 name:&6E&ex&6c&ea&6l&ei&6b&eu&6r
+ /shot give <plr> excaliburbeam
+maxHearts: 80
+permissions:
+  superherocity:
+  - -essentials.protect.damage.fall
+powers:
+- /effects
+- /jump <0-5>
+- /run <0-5>
+speech: I ask of you, are you my master?
+trail: [
+  ]
